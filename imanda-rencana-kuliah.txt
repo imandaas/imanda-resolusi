@@ -3,9 +3,11 @@ RENCANA KULIAH IMANDA
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
+- Dtruktur data dasar
 - PHP Frameworks
   ^ Laravel
 - Interview
 - Vlogs
+- Python
