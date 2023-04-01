@@ -1,0 +1,8 @@
+RENCANA KULIAH IMANDA
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
