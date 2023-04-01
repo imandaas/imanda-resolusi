@@ -3,6 +3,7 @@ RENCANA KULIAH IMANDA
 - Javascript
   * ES6
   * Framework Javascript
+- Dtruktur data dasar
 - PHP Frameworks
 - Interview
 - Vlogs
